@@ -1,0 +1,574 @@
+  *{
+			   margin:0px;
+			   padding:0px;
+			   box-sizing:border-box;
+			
+			
+			  }
+			  
+		    .parient{
+			   
+			     border:1px solid black;
+				 width:900px;
+				 height:3170px;
+				 margin:auto;
+			  
+			}
+			
+			.socialIMG{
+			     width:20px;
+				 height:20px;
+			  
+			
+			
+			}
+			.LogoIMG{
+			     width:20px;
+				 height:20px;
+			     margin-top:7px;
+				 
+			}
+			.ul{
+		        
+		        
+	             list-style-type:none;
+		         width:885px;
+		         height:50px;
+			     background-color:white;
+			     margin-top:4px;
+				 margin-left:10px;
+				
+				 
+				 
+		        }
+			
+			.li{
+		        float:left;
+		        padding-top:15px;
+		        padding-left:20px;
+			    font-size:16px;
+				
+				
+		 
+		        }
+				
+			.li a{
+	               text-decoration:none;
+	               color:black;
+	               
+	            }
+				
+			.li:first-child{
+	              padding-right:270px;
+	              font-family:tahoma;
+		          font-size:18px;
+		          padding-top:7px;
+				  font-weight:bolder;
+				  padding-left:10px;
+				  }
+		
+		    .Co{
+			    color:#0f52ba;
+			}
+			.Dropdown{
+			     border:none;
+				 
+			}
+			
+			.li :hover {
+			      color:#0f52ba;
+				
+			 
+			 
+			 } 		
+			 
+			 .background{
+			     
+			      border:1px solid white;
+				  width:860px;
+				  height:350px;
+				  margin:auto;
+				  margin-top:4px;
+			     background-image:url("img/doctor11.jpg");
+			     background-repeat:no-repeat;
+				 background-size:890px 350px;
+				 background-position:left;
+				 background-color:white;
+			 
+			 
+			 
+			 }
+			 .adress{
+			      width:380px;
+				  height:180px;
+			     
+				  margin-top:80px;
+				  margin-left:30px;
+			 
+			 }
+			 
+			 .h1{ 
+			      
+				  
+				  
+				  text-transform:uppercase;
+				  margin-bottom:10px;
+				  
+			 
+			 }
+			 .p{
+			      margin-bottom:10px;
+			      font-size:18px;
+			 
+			 
+			 }
+			 
+		
+			 
+			 .Button-Read-More{
+			 
+			       width:90px;
+				    height:30px;
+					border:1px solid #0f52ba;
+					background-color:transparent;
+					margin-left:135px;
+			       text-transform:uppercase;
+				   font-size:12px;
+				   color:#0f52ba;
+			 
+			 }
+			 .science{
+			     color:white;
+				 background-color:#0f52ba;
+			     height:50px;
+				 font-weight:bold;
+				 display:inline-block;
+				 padding-top:5px;
+				  
+			 
+			 }
+			 
+			 .h2{
+			       font-size:25
+				   font-family:arial;
+			       text-transform:uppercase;
+				   text-align:center;
+				   margin-top:20px;
+			 
+			 
+			 }
+			 
+			 .heartt{
+			       
+			        width:60px;
+				    height:30px;
+			        margin-left:424px;
+					margin-top:5px;
+			 }
+			 
+			 .p1{
+			 
+			        width:500px;
+				    height:50px;
+			       
+			        text-align:center;
+					margin-left:209px;
+			 
+			 }
+			 
+			 .imgservices{
+			          width:857px;
+				      height:450px;
+			          margin-left:20px;
+			          margin-top:20px;
+			 }
+			 
+			 .p2{
+			 
+			        width:600px;
+				    height:50px;
+			       
+			        text-align:center;
+					font-size:27px;
+					margin-left:180px;
+					margin-top:25px;
+					text-transform:uppercase;
+			 
+			 }
+			 
+			 
+			 .count{
+                 
+                 
+			     width:740px;
+				
+			     margin-top:50px;
+			     margin-left: 50px;
+				 column-gap:30px;
+			     column-count: 4;
+				 column-rule-style:solid;
+				 column-rule-color:gray;
+				 column-rule-width:1px;
+				 text-align:center;
+				 
+			   
+			 
+			 }
+			 
+			 .h1-count{
+			    color:#0f52ba;
+				font-size:33px;
+				font-family:arial;
+			 
+			 }
+			 
+			 .span-count{
+			     text-transform:uppercase;
+			     font-family:verdana;
+				 font-size:13px;
+			 
+			 }
+			 
+			 .company{
+			 
+			     width:894px;
+				 height:320px;
+			     background-image:url("img/doctor11.jpg");
+			     background-repeat:no-repeat;
+				 background-size:420px 350px;
+				 background-position:right;
+				 border:none;
+				 margin-top:90px;  
+				 
+				 padding-top:20px;
+				 padding-left:50px;
+			 
+			 
+			 }
+			 
+			 .img-company{
+			      width:60px;
+				  height:60px;
+			 
+			 }
+			 .text{ 
+			         width:320px;
+				     height:30px;
+			         
+				     font-size:23px;
+				     font-family:arial;
+
+			 
+			 }
+			 
+			 .adress-TECHNOLOGY{
+			       font-weight:bolder;
+			       font-size:23px;
+				   font-family:arial;
+					
+			 }
+			 
+			 .p3{
+			        width:380px;
+				    height:30px;
+			        margin-top:10px;
+					font-size:18px;
+			 
+			 }
+			 .grid{
+			        width:450px;
+				    height:300px;
+			        margin-top:30px;
+					display:grid;
+					grid-template-rows:30px 30px 30px 30px;
+					grid-template-columns:220px 180px ;
+					
+					
+			 }
+			 
+			 .item{
+			 
+			       
+					padding:7px;
+					font-size:14px;
+					text-align:left;
+					color:gray;
+			        margin-left:-6px;
+					
+			 
+			 
+			 }
+			 
+			 .button-view-all{
+			              width:100px;
+				          height:30px;
+						  border:2px solid #0f52ba;
+						  border-radius:5px;
+			              background-color:white;
+						  color:#0f52ba;
+						  font-weight:bold;
+						  margin-top:15px;
+			 
+			 
+			 }
+			 .b{
+			     color:#0f52ba;
+				 
+				 font-size:15px;
+				 font-weight:bold;
+			 
+			 
+			 }
+			 
+			 .color{
+			        margin-top:40px;
+			        width:897px;
+					height:200px;
+					background-color:#0f52ba;
+			        background-size:cover;
+					padding-top:50px;
+					padding-left:100px;
+			 
+			 }
+			 
+			 .text-color{
+			             width:800px;
+					     height:50px;
+						 color:white;
+						 text-transform:uppercase;
+						 font-weight:bold;
+						 font-size:25px;
+						 font-family:arial;
+						 
+						 
+						
+			        
+			 
+			 }
+			 
+			 .caese-studies{
+			             width:200px;
+					     height:50px;
+			             background-color:white;
+			            color:#0f52ba;
+						display:inline;
+			 
+			 }
+			 
+			 .button-view-all2{
+			                width:120px;
+				          height:40px;
+						  border:1px solid white;
+						  border-radius:5px;
+			              background-color:transparent;
+						  color:white;
+						  font-weight:bold;
+						  margin-left:250px;
+						  position:absolute;
+						 margin-top:-1px;
+			 
+			 }
+			 .many-images{
+			              width:250px;
+				          height:250px;
+			             margin:10px;
+						  
+						  
+			 
+			 }
+			 .images{
+			 
+			            margin-top:-80px;
+			              margin-left:40px;
+						  
+			 
+			 }
+			 
+			 div.ranges{
+			            width:893px;
+				        height:350px;
+			            background-image:url("map.jpg");
+			            background-repeat:no-repeat;
+				        background-size:500px 500px;
+				        background-position:right;
+				        border:none;
+				        margin-top:50px;  
+				        padding-top:20px;
+				        padding-left:50px;
+			 
+			 
+			 
+			 }
+			 
+			 .div-range{
+			          margin-top:5px; 
+					  
+					  background-color:#ddd;
+					  width:370px;
+					  height:10px;
+			 }
+			 
+			 .div-range2{
+			             background-color:blue;
+					     width:300px;
+					     height:10px;
+						 position:absolute;
+			 
+			 
+			 }
+			 
+			 
+			 .medical-reseasrch{
+			         margin-top:50px;
+					 text-transform:uppercase;
+					 font-size:15px;
+					 font-weight:bold;
+					 
+			        
+			 
+			 
+			 }
+			 
+			 .range90{
+			      margin-left:155px;
+			 
+			 
+			 }
+			 
+			 .div-range3{
+			             background-color:blue;
+					     width:290px;
+					     height:10px;
+						 position:absolute;
+			 
+			 
+			 }
+			 
+			 .text1{ 
+			         width:370px;
+				     height:30px;
+				     font-size:23px;
+				     font-family:arial;
+
+			 
+			 }
+			 .hr{
+			      width:800px;
+				  text-align:center;
+			      margin-left:50px;
+			 
+			 }
+			 
+			 .grid-footer{
+			 
+			        width:450px;
+				    height:300px;
+			        margin-top:40px;
+					margin-left:40px;
+					display:grid;
+					grid-template-rows:40px 40px 40px 40px 40px  40px ;
+					grid-template-columns:255px 190px 180px 240px ;
+					grid-template-areas:'item1  item2  item3  item4'
+					
+					                    'item1  item7  item12 item16 '
+					                    'item5  item8  item13 item17 '
+										'item5  item9  item14 item18 '
+										'item5  item10  item15 item19 '
+										'item6  item11  item21 item20 ';
+			 
+			 
+			 }
+			 .items{
+			       
+				   color:gray;
+				   
+				   font-size:17px;
+			 
+			 
+			 }
+			 
+			 #i1{grid-area:item1}    #i11{grid-area:item11}
+			 #i2{grid-area:item2}    #i12{grid-area:item12}
+   			 #i3{grid-area:item3}    #i13{grid-area:item13}
+			 #i4{grid-area:item4}    #i14{grid-area:item14}
+			 #i5{grid-area:item5}    #i15{grid-area:item15}
+			 #i6{grid-area:item6}    #i16{grid-area:item16}
+			 #i7{grid-area:item7}    #i17{grid-area:item17}
+			 #i8{grid-area:item8}    #i18{grid-area:item18}
+			 #i9{grid-area:item9}    #i19{grid-area:item19}
+			 #i10{grid-area:item10}  #i20{grid-area:item20}
+			 
+			 #i21{ grid-area:item21 }
+			 
+			 
+			 
+			 #i2,#i3,#i4{
+			 
+			       padding-top:10px;
+				   font-size:18px;
+				   font-weight:bold;
+				   color:black;
+			 
+			 }
+			 
+			 #i1{
+			    color:black;
+			    font-size:30px;
+				font-weight:bold;
+				padding-top:20px;
+				padding-right:40px;
+			 
+			 }
+			 #i16,#i18{
+			         color:#0f52ba;
+			    
+			          }
+			 
+			 
+			 
+			 .grid-footer-img{
+			 
+			       width:25px;
+				   height:25px;
+				   margin-left:20px;
+				   margin-top:5px;
+			 
+			 
+			 }
+			 
+.p-grid-footer{
+			      
+			       width:240px;
+				   height:100px;
+			       
+			 
+			 }
+			 
+.copyright{
+			           width:380px;
+				       height:50px;
+			           
+					   margin-left:290px;
+					   margin-top:20px;
+					   color:gray;
+					   font-size:18px;
+			 
+			 }
+.a-grid-footer{
+			                  text-decoration:none;
+							  color:gray;
+			 
+			 
+			 }
+
+.name{
+    color: blue;
+    font-weight: bold;
+}
+              
+
+
+
+
+			 
+			 
