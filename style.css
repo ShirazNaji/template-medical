@@ -149,7 +149,7 @@
 			 }
 			 
 			 .h2{
-			       font-size:25
+			       font-size:25;
 				   font-family:arial;
 			       text-transform:uppercase;
 				   text-align:center;
@@ -387,7 +387,7 @@
 			 div.ranges{
 			            width:893px;
 				        height:350px;
-			            background-image:url("map.jpg");
+			            background-image:url("img/map.jpg");
 			            background-repeat:no-repeat;
 				        background-size:500px 500px;
 				        background-position:right;
